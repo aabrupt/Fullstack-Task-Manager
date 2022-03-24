@@ -51,7 +51,7 @@
 
 ## Fauna Resources
 
-![Faunadb](https://images.ctfassets.net/po4qc9xpmpuh/7itYmeRxmVGIXwwGWHrQU3/e4ea73c2bebc64bd65d84964576515b9/fauna-logo-new-v2.svg)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.saasworthy.com%2Ftr%3Aw-200%2Ch-0%2Ffaunadb_6216_logo_1631792854_5cryx.jpg&f=1&nofb=1" alt="Faunadb" width="200px" />
 
 - [Documentation](https://docs.fauna.com/fauna/current)
 - [FQL Cheat Sheet](https://docs.fauna.com/fauna/current/api/fql/cheat_sheet)
@@ -59,6 +59,7 @@
 ## Angular Resources
 
 ![Angular](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
+<img src="" alt="" width="200px" />
 
 - [Documentation](https://angular.io/docs)
 - [Angular Material](https://material.angular.io/)
