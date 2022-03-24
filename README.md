@@ -37,7 +37,7 @@
 
 ## Nestjs Resources
 
-<img src="./images/frameworks/Nestjs.svg" alt="Nestjs" height="200px" />
+<img src="./images/framework/Nestjs.svg" alt="Nestjs" height="200px" />
 
 - [Documentation](https://docs.nestjs.com/)
 - [Caching](https://docs.nestjs.com/techniques/caching)
