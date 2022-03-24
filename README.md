@@ -13,7 +13,7 @@
 - Nestjs <img src="./images/framework/Nestjs.svg" alt="Nestjs" height="20px" />
 - Redis(Cache) <img src="./images/database/Redis.svg" alt="Redis" height="20px" />
 - FaunaDB <img src="./images/database/Faunadb.jpg" alt="Faunadb" height="20px" />
-- Nodejs <img src="./images/framework/Nodejs.png" alt="Nodejs" height="20px" />
+- Nodejs <img src="./images/framework/Nodej.png" alt="Nodejs" height="20px" />
 
 ## Programming Languages
 
