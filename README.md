@@ -18,7 +18,7 @@
 ## Programming Languages
 
 - Javascript(JS)
-- Typescript(TS)
+- Typescript(TS) <img src="./images/language/Typescript.png" alt="Typescript" height="20px" />
 - Fauna Query Language(FQL)
 
 ## Typescript Resources
