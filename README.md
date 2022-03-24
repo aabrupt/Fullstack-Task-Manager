@@ -31,7 +31,7 @@
 
 ## Nx Resources
 
-<img src="Nx" alt="./images/framework/Nx.png" height="200px" />
+<img src="./images/framework/Nx.png" alt="Nx" height="200px" />
 
 - [Documentation](https://nx.dev/getting-started/intro)
 
