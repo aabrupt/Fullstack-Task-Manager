@@ -59,7 +59,7 @@
 
 ## Angular Resources
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.gratispng.com%2F20180701%2Frht%2Fkisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg&f=1&nofb=1" alt="Angular" height="200px" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*J_-vtvcqV1-v14WqkPWhiQ.png&f=1&nofb=1" alt="Angular" height="200px" />
 
 - [Documentation](https://angular.io/docs)
 - [Angular Material](https://material.angular.io/)
